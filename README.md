@@ -1,2 +1,3 @@
-# new_isa
-An adaptation of Isabella textures
+# NewIsa
+
+Reworked and adapted Isabella Texture Pack
